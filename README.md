@@ -10,10 +10,11 @@ a complete list of all examples in order.
 
 ## Vectorgebra Examples
 
-1. Introduction to Vectorgebra
-2. Vector Algebra
-3. More on Vectors
-4. Matrices
+1. [Introduction to Vectorgebra](https://github.com/ahmeterdem1/examples/blob/main/Vectorgebra%20Code%20Examples/1-Intro_To_Vectorgebra.ipynb)
+2. [Vector Algebra](https://github.com/ahmeterdem1/examples/blob/main/Vectorgebra%20Code%20Examples/2-Vector_Algebra.ipynb)
+3. [More on Vectors](https://github.com/ahmeterdem1/examples/blob/main/Vectorgebra%20Code%20Examples/3-More_On_Vectors.ipynb)
+4. [Matrices](https://github.com/ahmeterdem1/examples/blob/main/Vectorgebra%20Code%20Examples/4-Matrices.ipynb)
+5. Linear Algebra
 
 ## Mlgebra Examples
 
