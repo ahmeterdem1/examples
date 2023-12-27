@@ -14,7 +14,7 @@ a complete list of all examples in order.
 2. [Vector Algebra](https://github.com/ahmeterdem1/examples/blob/main/Vectorgebra%20Code%20Examples/2-Vector_Algebra.ipynb)
 3. [More on Vectors](https://github.com/ahmeterdem1/examples/blob/main/Vectorgebra%20Code%20Examples/3-More_On_Vectors.ipynb)
 4. [Matrices](https://github.com/ahmeterdem1/examples/blob/main/Vectorgebra%20Code%20Examples/4-Matrices.ipynb)
-5. Linear Algebra
+5. [Linear Algebra](https://github.com/ahmeterdem1/examples/blob/main/Vectorgebra%20Code%20Examples/5-Linear_Algebra.ipynb)
 
 ## Mlgebra Examples
 
