@@ -18,6 +18,8 @@ a complete list of all examples in order.
 6. [Numerical Methods](https://github.com/ahmeterdem1/examples/blob/main/Vectorgebra%20Code%20Examples/6-Numerical_Methods.ipynb)
 7. [Statistics and Data](https://github.com/ahmeterdem1/examples/blob/main/Vectorgebra%20Code%20Examples/7-Statistics_and_Data.ipynb)
 8. [Complex Numbers](https://github.com/ahmeterdem1/examples/blob/main/Vectorgebra%20Code%20Examples/8-Complex_Numbers.ipynb)
+9. [Graphs](https://github.com/ahmeterdem1/examples/blob/main/Vectorgebra%20Code%20Examples/9-Graphs.ipynb)
+10. [Extras](https://github.com/ahmeterdem1/examples/blob/main/Vectorgebra%20Code%20Examples/10-Extras.ipynb)
 
 ## Mlgebra Tutorials/Examples
 
